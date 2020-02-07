@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data key="cloud.visitlog.se">Zebra,Snagit</data>
+  <data key="xyz.com">Brother</data>
+  <data key="abc.com">sss</data>
+  <data key="bbb.com">ccc</data>
+  <data key="jjj.com">jjj</data>
+  <data key="zzz.com">kkkkk</data>
+  <data key="aaa.com">kkkkkhhh,hhh</data>
+  <data key="www.com" CreatedOn="28-12-2019 11:08:11 AM">www</data>
+  <data key="ccc.com" CreatedOn="28-12-2019 05:09:26 PM" MachineID="23323232323">ccc</data>
+  <data key="ddd.com" CreatedOn="28-12-2019 05:15:43 PM" MachineID="34">ddd</data>
+  <data key="ooo.com" CreatedOn="28-12-2019 06:22:00 PM" MachineID="23">ooo,iii</data>
+  <data key="ooo.com" CreatedOn="28-12-2019 06:22:39 PM" MachineID="21">kkk,eee</data>
+  <data key="mmm.com" CreatedOn="03-01-2020 06:39:05 PM" MachineID="1234">mmmm</data>
+  <data key="bbb.com" CreatedOn="07-01-2020 11:19:56 AM" MachineID="55">bbb,mmm</data>
+  <data key="sonu.com" CreatedOn="07-01-2020 11:35:50 AM" MachineID="56" />
+  <data key="srushti.com" CreatedOn="07-01-2020 11:38:55 AM" MachineID="59">srushti</data>
+  <data key="jigar.com" CreatedOn="07-01-2020 11:39:59 AM" MachineID="53">srushti</data>
+  <data key="mahi.com" CreatedOn="07-01-2020 11:47:47 AM" MachineID="52">mahi</data>
+  <data key="jss.com" CreatedOn="07-01-2020 12:14:21 PM" MachineID="55">jss</data>
+  <data key="xxx.com" CreatedOn="07-01-2020 12:21:36 PM" MachineID="57">xxx</data>
+  <data key="kkk.com" CreatedOn="07-01-2020 12:25:54 PM" MachineID="59">kkk</data>
+  <data key="http://localhost:2928" CreatedOn="17-01-2020 01:00:43 PM" MachineID="920F-C74A-9A97-FE5E-1C90-B6ED-1166-7D25">Snagit 12</data>
+</root>
